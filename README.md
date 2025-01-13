@@ -31,14 +31,14 @@ ApiRestPython/
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/millanda29/ApiRestPython.git
+   cd ApiRestPython
    ```
 
 2. Crea un entorno virtual e instala las dependencias:
    ```bash
    python -m venv .venv
-   source .venv/bin/activate    # En Windows: venv\Scripts\activate
+   source .venv/bin/activate    # En Windows: .venv\Scripts\activate
    pip install -r requirements.txt
    ```
 
